@@ -10,7 +10,7 @@ Multi-class classification of wine types using chemical properties. Achieved 95%
 
 ## Technologies
 - Python, scikit-learn, pandas, numpy, matplotlib
-- Random Forest, Decision Tree
+- Random Forest, Decision Tree, SVM Classifier
 - Feature selection, cross-validation
 
 ## Dataset
